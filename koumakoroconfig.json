@@ -3,8 +3,6 @@
     "mise_a_jour_disponible": false,
     "derniere_version": "1.0.0",
     "message_mise_a_jour": "Une nouvelle version de LVLB Nation est disponible sur le store !",
-    "lien_store_android": "https://play.google.com/store/apps/details?id=com.lvlbnation.app",
-    "lien_store_ios": "https://apps.apple.com/app/lvlbnation/id0000000000",
     "mise_a_jour_obligatoire": false
   },
   "publicites": [
