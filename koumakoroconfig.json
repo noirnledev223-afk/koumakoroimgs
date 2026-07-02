@@ -1,0 +1,82 @@
+{
+  "app_config": {
+    "mise_a_jour_disponible": false,
+    "derniere_version": "1.0.0",
+    "message_mise_a_jour": "Une nouvelle version de LVLB Nation est disponible sur le store !",
+    "lien_store_android": "https://play.google.com/store/apps/details?id=com.lvlbnation.app",
+    "lien_store_ios": "https://apps.apple.com/app/lvlbnation/id0000000000",
+    "mise_a_jour_obligatoire": false
+  },
+  "publicites": [
+    {
+      "id": "pub001",
+      "partenaire": "Partenaire 1",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub001.jpg",
+      "lien": "https://exemple-partenaire1.com",
+      "actif": true
+    },
+    {
+      "id": "pub002",
+      "partenaire": "Partenaire 2",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub002.jpg",
+      "lien": "https://exemple-partenaire2.com",
+      "actif": true
+    },
+    {
+      "id": "pub003",
+      "partenaire": "Partenaire 3",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub003.jpg",
+      "lien": "https://exemple-partenaire3.com",
+      "actif": true
+    },
+    {
+      "id": "pub004",
+      "partenaire": "Partenaire 4",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub004.jpg",
+      "lien": "https://exemple-partenaire4.com",
+      "actif": true
+    },
+    {
+      "id": "pub005",
+      "partenaire": "Partenaire 5",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub005.jpg",
+      "lien": "https://exemple-partenaire5.com",
+      "actif": true
+    },
+    {
+      "id": "pub006",
+      "partenaire": "Partenaire 6",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub006.jpg",
+      "lien": "https://exemple-partenaire6.com",
+      "actif": true
+    },
+    {
+      "id": "pub007",
+      "partenaire": "Partenaire 7",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub007.jpg",
+      "lien": "https://exemple-partenaire7.com",
+      "actif": true
+    },
+    {
+      "id": "pub008",
+      "partenaire": "Partenaire 8",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub008.jpg",
+      "lien": "https://exemple-partenaire8.com",
+      "actif": true
+    },
+    {
+      "id": "pub009",
+      "partenaire": "Partenaire 9",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub009.jpg",
+      "lien": "https://exemple-partenaire9.com",
+      "actif": true
+    },
+    {
+      "id": "pub010",
+      "partenaire": "Partenaire 10",
+      "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub010.jpg",
+      "lien": "https://exemple-partenaire10.com",
+      "actif": true
+    }
+  ]
+}
