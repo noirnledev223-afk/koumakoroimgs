@@ -15,19 +15,19 @@
     {
       "id": "pub002",
       "partenaire": "Ma religion",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/applogo.png",
+      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/applogo.png?raw=true",
       "actif": true
     },
     {
       "id": "pub003",
       "partenaire": "AlloCar",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/allocar.png",
+      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/allocar.png?raw=true",
       "actif": true
     },
     {
       "id": "pub004",
       "partenaire": "Samacode",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/1764852790835.jpg",
+      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/1764852790835.jpg?raw=true",
       "actif": true
     }
   ]
