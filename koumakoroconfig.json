@@ -1,6 +1,6 @@
 {
   "app_config": {
-    "mise_a_jour_disponible": false,
+    "mise_a_jour_disponible": true,
     "derniere_version": "1.0.0",
     "message_mise_a_jour": "Une nouvelle version de LVLB Nation est disponible sur le store !",
     "mise_a_jour_obligatoire": false
