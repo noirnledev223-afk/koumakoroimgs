@@ -8,16 +8,14 @@
   "publicites": [
     {
       "id": "pub001",
-      "partenaire": "Partenaire 1",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/WhatsApp%20Image%202026-06-22%20at%2017.26.20.jpeg",
-      "lien": "https://exemple-partenaire1.com",
+      "partenaire": "LVLB LOGO",
+      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/WhatsApp%20Image%202026-06-22%20at%2017.26.20.jpeg?raw=true",
       "actif": true
     },
     {
       "id": "pub002",
       "partenaire": "Partenaire 2",
       "image": "https://raw.githubusercontent.com/TonPseudo/lvlb-config/main/images/pub002.jpg",
-      "lien": "https://exemple-partenaire2.com",
       "actif": true
     },
     {
