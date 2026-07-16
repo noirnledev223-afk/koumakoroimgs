@@ -1,34 +1,6 @@
 {
-  "app_config": {
-    "mise_a_jour_disponible": false,
-    "derniere_version": "1.0.0",
-    "message_mise_a_jour": "Une nouvelle version de LVLB Nation est disponible sur le store !",
-    "mise_a_jour_obligatoire": false
-  },
-  "publicites": [
-    {
-      "id": "pub001",
-      "partenaire": "LVLB LOGO",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/WhatsApp%20Image%202026-06-22%20at%2017.26.20.jpeg?raw=true",
-      "actif": true
-    },
-    {
-      "id": "pub002",
-      "partenaire": "Ma religion",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/applogo.png?raw=true",
-      "actif": true
-    },
-    {
-      "id": "pub003",
-      "partenaire": "AlloCar",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/allocar.png?raw=true",
-      "actif": true
-    },
-    {
-      "id": "pub004",
-      "partenaire": "Samacode",
-      "image": "https://github.com/noirnledev223-afk/koumakoroimgs/blob/main/1764852790835.jpg?raw=true",
-      "actif": true
-    }
-  ]
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.1",
+  "update_message": "Une nouvelle version est disponible !",
+  "store_url": "https://play.google.com/store/apps/details?id=..."
 }
